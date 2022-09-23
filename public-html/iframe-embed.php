@@ -1,0 +1,2 @@
+<iframe title="ClipReply IFrame" id="<?php echo esc_url($atts['url']); ?>" class="clipReplyEmbed" src="<?php echo esc_url($atts['url']); ?>" allow="camera *; microphone *; autoplay *; encrypted-media *; fullscreen *; display-capture *;" frameborder="0" width="<?php echo esc_attr($atts['width'] . '%'); ?>" height="<?php echo esc_attr($atts['height'] . 'px'); ?>" style="border: none; border-radius: 20px">
+</iframe>
