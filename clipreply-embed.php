@@ -127,7 +127,7 @@ class ClipReplyEmbed
 }
 
 
-new ClipReplyEmbed();
+// new ClipReplyEmbed();
 
 
 /**
