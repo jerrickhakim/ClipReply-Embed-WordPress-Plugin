@@ -2,7 +2,7 @@
 
 This plugin allows you to embed your ClipReply flows, widgets and videos on your WordPress site using shortcodes. Check out the shortcodes below and replace with your values.
 
-To learn more about CLipReply visit: clipreply.com
+To learn more about ClipReply visit: https://clipreply.com
 
 Flow Embed
 
